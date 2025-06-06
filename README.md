@@ -1,28 +1,21 @@
-<!-- Premium Animated Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=220&section=header&text=Nyeem%20AL%20Nasip&fontSize=48&fontColor=64ffda" alt="Nyeem AL Nasip Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=220&section=header&text=Nayeem%20AL%20Nasip&fontSize=48&fontColor=64ffda" alt="Nayeem AL Nasip Banner" />
 </p>
 
-<h1 align="center" style="font-weight:900; color:#64ffda; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Nyeem AL Nasip
-</h1>
-<p align="center" style="font-weight:600; font-size:1.2rem; color:#8892b0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Cybersecurity Specialist | Secure Web Architect | Network Infrastructure Professional
-</p>
+<h1 align="center" style="color:#64ffda;">Nayeem AL Nasip</h1>
 
-<p align="center" style="font-size:0.9rem; color:#8892b0; letter-spacing:0.06em; margin-top:5px;">
-  <a href="mailto:nayeemalnasip@gmail.com" style="color:#64ffda; text-decoration:none;">nayeemalnasip@gmail.com</a> &nbsp;&bull;&nbsp; 
-  <a href="https://linkedin.com/in/nayeemalnasip" style="color:#64ffda; text-decoration:none;">LinkedIn</a> &nbsp;&bull;&nbsp; 
-  Bangladesh
+<p align="center" style="color:#8892b0; font-size: 16px;">
+Cybersecurity Specialist • Secure Web Architect • Network Infrastructure Professional
 </p>
 
 ---
 
 ## Executive Summary
 
-I am a mission-driven cybersecurity specialist and secure web architect with a proven track record of delivering resilient, scalable, and security-first digital solutions. With certifications in **CCNA**, **MTCNA**, and **Ethical Hacking**, I help organizations safeguard infrastructure, eliminate vulnerabilities, and engineer secure, scalable systems.
+I am a mission-driven cybersecurity specialist and secure web architect with a proven track record of delivering resilient, scalable, and security-first digital solutions. With certifications in **CCNA**, **MTCNA**, and **Ethical Hacking**, I help organizations safeguard infrastructure, eliminate vulnerabilities, and engineer secure systems.
 
-Skilled in both offensive and defensive cybersecurity, I deliver high-performance web interfaces aligned with enterprise standards in functionality, accessibility, and security — all driven by a strategic, data-backed approach.
+Skilled in both offensive and defensive cybersecurity, I deliver high-performance web interfaces aligned with enterprise standards — all driven by a strategic, data-backed approach.
 
 ---
 
@@ -74,8 +67,8 @@ Skilled in both offensive and defensive cybersecurity, I deliver high-performanc
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nayeemalnasip&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="Nyeem's GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeemalnasip&layout=compact&theme=radical&hide_title=true" alt="Nyeem's Top Languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nayeemalnasip&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeemalnasip&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -84,32 +77,28 @@ Skilled in both offensive and defensive cybersecurity, I deliver high-performanc
 
 ---
 
-## 📬 Contact Me
+## Contact Me & Connect with Me
 
-<div align="center" style="margin-bottom: 30px;">
-  <a href="mailto:nayeemalnasip@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
-    <img src="https://cdn.simpleicons.org/mail/48/64ffda" alt="Email" width="40" height="40" />
+<p align="center">
+  <a href="mailto:nayeemalnasip@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%2364ffda?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/nayeemalnasip" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
-    <img src="https://cdn.simpleicons.org/linkedin/48/64ffda" alt="LinkedIn" width="40" height="40" />
+  <a href="https://linkedin.com/in/nayeemalnasip" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/nayeemalnasip/" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
-    <img src="https://cdn.simpleicons.org/instagram/48/64ffda" alt="Instagram" width="40" height="40" />
+  <a href="https://www.instagram.com/nayeemalnasip/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.facebook.com/nayeemalnasip" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
-    <img src="https://cdn.simpleicons.org/facebook/48/64ffda" alt="Facebook Profile" width="40" height="40" />
+  <a href="https://www.facebook.com/nayeemalnasip" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100094611166430" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
-    <img src="https://cdn.simpleicons.org/facebook/48/64ffda" alt="Facebook Page" width="40" height="40" />
+  <a href="https://github.com/nayeemalnasip" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/nayeemalnasip" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
-    <img src="https://cdn.simpleicons.org/github/48/64ffda" alt="GitHub" width="40" height="40" />
-  </a>
-</div>
+</p>
 
-<p align="center" style="font-size: 1.1rem; font-weight: 600; color: #64ffda;">
-  <strong>Email:</strong> <a href="mailto:nayeemalnasip@gmail.com" style="color:#64ffda; text-decoration:none;">nayeemalnasip@gmail.com</a> &nbsp;&bull;&nbsp; 
-  <strong>Phone:</strong> +8801XXXXXXXXX (Add your phone number here)  
+<p align="center" style="color:#64ffda; font-size:1.1rem; font-weight:bold;">
+  nayeemalnasip@gmail.com
 </p>
 
 ---
@@ -120,5 +109,5 @@ Empowering digital ecosystems through proactive, scalable, and intelligent cyber
 
 ---
 
-> _"Security is no longer optional — it's the foundation of every digital journey."_  
-> – Nyeem AL Nasip
+> "Security is no longer optional — it's the foundation of every digital journey."  
+> — Nayeem AL Nasip
